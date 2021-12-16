@@ -1,6 +1,6 @@
-# flutter_clean_architecture_tdd
+# Trivjal Number. 
 
-A Trivia Number App Built With Flutter.
+A Trivia Number App Built With Flutter using Clean Architecture and TDD + BLoC
 
 ## Getting Started
 
