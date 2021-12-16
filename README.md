@@ -1,4 +1,4 @@
-# Trivjal Number. 
+# Number Trivial App
 
 A Trivia Number App Built With Flutter using Clean Architecture and TDD + BLoC
 
